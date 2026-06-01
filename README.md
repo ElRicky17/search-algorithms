@@ -139,7 +139,7 @@ jupyter
 
 ---
 
-## 📚 Concepts
+## Concepts
 
 - **Blind Search:** No domain knowledge used — explores all nodes systematically.
 - **Informed Search:** Uses a heuristic function to guide the search toward the goal more efficiently.
